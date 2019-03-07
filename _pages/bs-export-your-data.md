@@ -4,6 +4,7 @@ layout: default
 category: beautiful-soup
 order: 6
 permalink: "/beautiful-soup/export-your-data"
+last_modified_at: "October 5, 2017"
 ---
 
 
@@ -32,5 +33,3 @@ with open('index.csv', 'a') as csv_file:
 Now if you run your program, you should able to export a `index.csv` file, which you can then open with Excel, where you should see a line of data.
 
 Here is the [code if needed](../code/bs-bloomberg.py).
-
-Updated on October 5, 2017
