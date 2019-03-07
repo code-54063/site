@@ -1,6 +1,5 @@
 ---
 title: Advanced users
-layout: default
 category: beautiful-soup
 order: 7
 permalink: "/beautiful-soup/advanced-users"
