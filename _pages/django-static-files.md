@@ -67,7 +67,7 @@ We also need to tell our HTML template that we added some CSS. Open the `blog/te
 We're just loading static files here. 🙂 Between the `<head>` and `</head>` tags, after the links to the Bootstrap CSS files, add this line:
 
 {% raw %}
-``` xml
+``` html
 <link rel="stylesheet" href="{% static 'css/blog.css' %}">
 ```
 {% endraw %}
@@ -76,8 +76,8 @@ The browser reads the files in the order they're given, so we need to make sure 
 
 Your file should now look like this:
 
-
-``` xml
+{% raw %}
+``` html
 {% load static %}
 <html>
     <head>
@@ -101,6 +101,7 @@ Your file should now look like this:
         </body>
 </html>
 ```
+{% endraw %}
 
 OK, save the file and refresh the site!
 
@@ -151,13 +152,15 @@ Go ahead and name some parts of the HTML code. Add a class called `page-header` 
 
 And now add a class `post` to your `div` containing a blog post.
 
+{% raw %}
 ``` xml
 <div class="post">
 	<p>published: {{ post.published_date }}</p>
 	<h1><a href="">{{ post.title }}</a></h1>
     <p>{{ post.text|linebreaksbr }}</p>
 </div>
-``` 
+```
+{% endraw %}
 
 We will now add declaration blocks to different selectors. Selectors starting with `.` relate to classes. There are many great tutorials and explanations about CSS on the Web that can help you understand the following code. For now, copy and paste it into your `blog/static/css/blog.css` file:
 
@@ -211,6 +214,7 @@ h1, h2, h3, h4 {
 
 Then surround the HTML code which displays the posts with declarations of classes. Replace this:
 
+{% raw %}
 ``` xml
     {% for post in posts %}
         <div class="post">
@@ -220,9 +224,11 @@ Then surround the HTML code which displays the posts with declarations of classe
         </div>
 		{% endfor %}
 ```
+{% endraw %}
 
 in the `blog/templates/blog/post_list.html` with this:
 
+{% raw %}
 ``` xml
     <div class="content container">
         <div class="row">
@@ -240,6 +246,7 @@ in the `blog/templates/blog/post_list.html` with this:
         </div>
 		</div>
 ```
+{% endraw %}
 
 Save those files and refresh your website.
 
