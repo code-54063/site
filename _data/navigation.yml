@@ -15,8 +15,8 @@ docs:
   - title: Beautiful Soup
     children:
       - title: "Introduction"
-        url: /_pages/bs-introduction/
+        url: /beautiful-soup/introduction
       - title: "Advanced users"
-        url: /_pages/bs-advanced-users/
+        url: /beautiful-soup/advanced-users
       - title: "Export your data"
-        url: /_pages/bs-export-your-data/
+        url: /beautiful-soup/export-your-data
