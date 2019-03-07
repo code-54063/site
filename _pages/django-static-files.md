@@ -56,11 +56,11 @@ h1 a {
 In a CSS file we determine styles for elements in the HTML file. The first way we identify elements is with the element name. You might remember these as tags from the HTML section. Things like `a`, `h1`, and `body` are all examples of element names. We also identify elements by the attribute `class` or the attribute `id`. Class and id are names you give the element by yourself. Classes define groups of elements, and ids point to specific elements. For example, you could identify the following tag by using the tag name `a`, the class `external_link`, or the id `link_to_wiki_page`:
 
 
-<!-- {% raw %} -->
+{% raw %}
 ``` html
 <a href="https://en.wikipedia.org/wiki/Django" class="external_link" id="link_to_wiki_page">
 ```
-<!-- {% endraw %}) -->
+{% endraw %}
 
 You can read more about [CSS Selectors at w3schools](http://www.w3schools.com/cssref/css_selectors.asp).
 
