@@ -24,8 +24,4 @@ docs:
         url: /beautiful-soup/inspecting-the-page
       - title: "Writing your scraping script"
         url: /beautiful-soup/writing-your-scrape-script
-      - title: "Export your data"
-        url: /beautiful-soup/export-your-data
-      - title: "Advanced users"
-        url: /beautiful-soup/advanced-users
 	
