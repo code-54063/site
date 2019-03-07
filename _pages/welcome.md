@@ -12,7 +12,7 @@ In this subject you will learn how to do some basic coding and work with code to
 
 To prepare for the semester ahead, you need to complete the following tasks in Week 1. *You will not be able to effectively participate in Week 2 tutorials if you don't do these tasks*.
 
-## 1. You need to install the following programs to be able to complete participate in class activities. One Week 1 task is to install these applications onto a *laptop. You need to install these programs in order.
+## 1. You need to install the following programs to be able to complete participate in class activities. One Week 1 task is to install these applications onto a laptop. You need to install these programs in order.
 
 ### Install Python 3.5.0
 
