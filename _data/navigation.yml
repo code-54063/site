@@ -12,6 +12,8 @@
   #   url: /sitemap/
 
 docs:
+  - title: Welcome
+    url: /welcome
   - title: Data Scraping
     children:
       - title: "Getting started"
