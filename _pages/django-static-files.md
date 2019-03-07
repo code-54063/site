@@ -56,11 +56,9 @@ h1 a {
 In a CSS file we determine styles for elements in the HTML file. The first way we identify elements is with the element name. You might remember these as tags from the HTML section. Things like `a`, `h1`, and `body` are all examples of element names. We also identify elements by the attribute `class` or the attribute `id`. Class and id are names you give the element by yourself. Classes define groups of elements, and ids point to specific elements. For example, you could identify the following tag by using the tag name `a`, the class `external_link`, or the id `link_to_wiki_page`:
 
 
-{% raw %}
 ``` html
 <a href="https://en.wikipedia.org/wiki/Django" class="external_link" id="link_to_wiki_page">
 ```
-{% endraw %}
 
 You can read more about [CSS Selectors at w3schools](http://www.w3schools.com/cssref/css_selectors.asp).
 
@@ -68,9 +66,11 @@ We also need to tell our HTML template that we added some CSS. Open the `blog/te
 
 We're just loading static files here. 🙂 Between the `<head>` and `</head>` tags, after the links to the Bootstrap CSS files, add this line:
 
+{% raw %}
 ``` xml
 <link rel="stylesheet" href="{% static 'css/blog.css' %}">
 ```
+{% endraw %}
 
 The browser reads the files in the order they're given, so we need to make sure this is in the right place. Otherwise the code in our file may be overriden by code in Bootstrap files. We just told our template where our CSS file is located.
 
