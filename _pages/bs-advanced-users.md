@@ -4,7 +4,6 @@ category: beautiful-soup
 order: 7
 permalink: "/beautiful-soup/advanced-users"
 last_modified_at: "January 27, 2017"
-toc: true
 ---
 
 ## Multiple indexes to scrape?

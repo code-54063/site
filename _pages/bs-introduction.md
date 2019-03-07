@@ -3,6 +3,7 @@ title: Data Scraping Example
 category: beautiful-soup
 order: 1
 permalink: "/beautiful-soup/introduction"
+last_modified_at: "January 27, 2017"
 ---
 
 There are several ways to extract information from the web.
