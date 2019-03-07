@@ -10,8 +10,7 @@ last_modified_at: " January 27, 2017"
 
 Here, we need to iterate through each row (`tr`) and then assign each element of `tr` (`td`) to a variable and append it to a list. Let's first look at the HTML structure of the table (I am not going to extract information for table heading `<th/>`)
 
-
-<img src="{{ site.baseurl }}/img/2017-01-27-at-5.20.11-pm.jpg" max-width: 100%>
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/2017-01-27-at-5.20.11-pm.jpg)
 
 Above, you can notice that second element of `<tr\>` is within tag `<th\>` not `<td\>` so we need to take care for this. Now to access value of each element, we will use `find(text=True)` option with each element.  Let's look at the code:
 

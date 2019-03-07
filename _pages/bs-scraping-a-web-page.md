@@ -32,7 +32,8 @@ soup = BeautifulSoup(page)
 ``` python
 print soup.prettify()
 ```
-<img src="{{ site.baseurl }}/img/2017-01-27-at-5.14.11-pm.jpg" max-width: 100%>
+
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/2017-01-27-at-5.14.11-pm.jpg)
 
 Here you will see the structure of the HTML tags. This will help you to know about different available tags and how can you play with these to extract information.
 
@@ -61,11 +62,11 @@ soup.a
 
 Above, you can see that, we have only one output. Now to extract all the links within `<a\>`, we will use `find_all()`. Doing this will show all links including titles, links and other information.
 
-<img src="{{ site.baseurl }}/img/2017-01-27-at-5.14.57-pm.jpg" max-width: 100%>
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/2017-01-27-at-5.14.57-pm.jpg)
 
 To show only links, we need to iterate over each a tag and then return the link using attribute "href" with get.
 
-<img src="{{ site.baseurl }}/img/2017-01-27-at-5.16.44-pm.jpg" max-width: 100%>
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/2017-01-27-at-5.16.44-pm.jpg)
 
 4. **Find the right table**
 As we are seeking a table to extract information about state capitals, we should identify the right table first. Let's write the command to extract information within all `table` tags.
@@ -81,6 +82,6 @@ right_table=soup.find('table', class_='wikitable sortable plainrowheaders')
 right_table
 ```
 
-<img src="{{ site.baseurl }}/img/2017-01-27-at-5.17.37-pm.jpg" max-width: 100%>
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/2017-01-27-at-5.17.37-pm.jpg)
 
 Above, we are able to identify the right table.
