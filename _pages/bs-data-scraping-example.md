@@ -2,7 +2,7 @@
 title: Data Scraping Example
 category: beautiful-soup
 order: 2
-permalink: "/beautiful-soup/introduction"
+permalink: "/beautiful-soup/data-scraping-example"
 last_modified_at: "October 5, 2017"
 ---
 

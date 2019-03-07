@@ -16,8 +16,8 @@ docs:
     children:
       - title: "Getting started"
         url: /beautiful-soup/getting-started
-      - title: "Introduction"
-        url: /beautiful-soup/introduction
+      - title: "Data scraping example"
+        url: /beautiful-soup/data-scraping-example
       - title: "Understanding HTML"
         url: /beautiful-soup/understanding-html
       - title: " Inspecting the page"
