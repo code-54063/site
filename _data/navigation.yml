@@ -12,10 +12,10 @@
   #   url: /sitemap/
 
 docs:
-  - title: Getting Started
+  - title: Data Scraping
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+      - title: "Getting started"
+        url: /beautiful-soup/getting-started
       - title: "Structure"
         url: /docs/structure/
       - title: "Installation"
@@ -30,4 +30,3 @@ docs:
         url: /docs/installation/
       - title: "Upgrading"
         url: /docs/upgrading/
-	
