@@ -1,7 +1,7 @@
 ---
 title: Introduction 4
 category: django
-order: 
+order: 1
 permalink: "/django/introduction-4"
 last_modified_at: "August 22, 2017"
 ---
