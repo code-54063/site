@@ -5,8 +5,6 @@ order: 1
 permalink: "/beautiful-soup/introduction"
 ---
 
-# Data Scraping Example
-
 There are several ways to extract information from the web.
 
 Using [API](https://en.wikipedia.org/wiki/Application_programming_interface)s are the best way to extract data from a website. Some companies provide API access to the data they wish to share. More and more, companies are restricting how much they share as they realise that data is their most valuable asset.

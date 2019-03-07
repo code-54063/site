@@ -3,9 +3,9 @@ title: Advanced users
 category: beautiful-soup
 order: 7
 permalink: "/beautiful-soup/advanced-users"
+last_modified_at: "January 27, 2017"
+toc: true
 ---
-
-# Advanced users
 
 ## Multiple indexes to scrape?
 
@@ -53,5 +53,3 @@ with open('index.csv', 'a') as csv_file:
 ```
 
 Rerun the program and you should be able to extract two indices at the same time!
-
-Updated on January 27, 2017
