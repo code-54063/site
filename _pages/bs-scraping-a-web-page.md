@@ -1,13 +1,10 @@
 ---
 title: Scraping a web page
-layout: default
 category: beautiful-soup
 order:
 permalink: "/beautiful-soup/scraping-a-web-page"
 last_modified_at: "May 14, 2017"
 ---
-
-# Scraping a web page 
 
 I am scraping data from a [Wikipedia page](https://en.wikipedia.org/wiki/List_of_state_and_union_territory_capitals_in_India). Our final goal is to extract list of state, union territory capitals in India. And some basic detail like establishment, former capital and others form this [wikipedia page](https://en.wikipedia.org/wiki/List_of_state_and_union_territory_capitals_in_India). Let's learn with doing this project step wise step:
 

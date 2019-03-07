@@ -1,13 +1,10 @@
 ---
 title: Inspecting the page
-layout: default
 category: beautiful-soup
 order: 4
 permalink: "/beautiful-soup/inspecting-the-page"
 last_modified_at: "January 27, 2017"
 ---
-
-# Inspecting the page
 
 ## Looking into the HTML
 

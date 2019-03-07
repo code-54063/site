@@ -1,13 +1,10 @@
 ---
 title: Understanding HTML
-layout: default
 category: beautiful-soup
 order: 3
 permalink: "/beautiful-soup/understanding-html"
 last_modified_at: "January 27, 2017"
 ---
-
-# Understanding HTML 
 
 Before we start jumping into the code, let's understand the basics of HTML and some rules of scraping.
 

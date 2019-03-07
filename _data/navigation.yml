@@ -12,11 +12,22 @@
   #   url: /sitemap/
 
 docs:
-  - title: Beautiful Soup
+  - title: Data Scraping
     children:
+      - title: "Getting started"
+        url: /beautiful-soup/getting-started
       - title: "Introduction"
         url: /beautiful-soup/introduction
+      - title: "Understanding HTML"
+        url: /beautiful-soup/understanding-html
+      - title: " Inspecting the page"
+        url: /beautiful-soup/inspecting-the-page
+      - title: "Writing your scraping script"
+        url: /beautiful-soup/writing-your-scrape-script
       - title: "Export your data"
         url: /beautiful-soup/export-your-data
       - title: "Advanced users"
         url: /beautiful-soup/advanced-users
+      - title: ""
+        url:
+	

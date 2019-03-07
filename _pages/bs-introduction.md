@@ -1,7 +1,7 @@
 ---
 title: Data Scraping Example
 category: beautiful-soup
-order: 1
+order: 2
 permalink: "/beautiful-soup/introduction"
 last_modified_at: "October 5, 2017"
 ---

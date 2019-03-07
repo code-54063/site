@@ -6,8 +6,6 @@ permalink: "/beautiful-soup/basics-get-familiar-with-html"
 last_modified_at: "January 27, 2017"
 ---
 
-# HTML structure 
-
 While performing web scarping, we deal with html tags. Thus, we must have good understanding of them. If you already know basics of HTML, you can skip this section.
 
 Below is the basic syntax of HTML:

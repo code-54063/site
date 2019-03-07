@@ -1,13 +1,10 @@
 ---
 title: Writing your scraping script
-layout: default
 category: beautiful-soup
 order: 5
 permalink: "/beautiful-soup/writing-your-scrape-script"
 last_modified_at: "October 5, 2017"
----
-
-# Writing your scraping script
+--- 
 
 Now that we know where our data is, we can start coding our web scraper. **Open your text editor now!**
 

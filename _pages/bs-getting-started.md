@@ -1,13 +1,10 @@
 ---
 title: Getting started
-layout: default
 category: beautiful-soup
-order: 2
+order: 1
 permalink: "/beautiful-soup/getting-started"
 last_modified_at: "October 5, 2017"
 ---
-
-# Getting started
 
 Hey everyone,
 

@@ -1,14 +1,10 @@
 ---
-title: Export your data 
-layout: default
+title: Export your data
 category: beautiful-soup
 order: 6
 permalink: "/beautiful-soup/export-your-data"
 last_modified_at: "October 5, 2017"
 ---
-
-
-# Export your data
 
 ## Export to Excel CSV
 

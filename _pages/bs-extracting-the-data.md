@@ -1,13 +1,10 @@
 ---
 title: Extracting the data
-layout: default
 category: beautiful-soup
 order:
 permalink: "/beautiful-soup/extracting-the-data"
 last_modified_at: " January 27, 2017"
 ---
-
-# Extracting the data
 
 ### Extract the information to DataFrame
 
