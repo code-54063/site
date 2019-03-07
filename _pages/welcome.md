@@ -4,8 +4,6 @@ permalink: "/welcome"
 last_modified_at: "July 26, 2018"
 ---
 
-# Welcome
-
 **Hi everyone, welcome to Code as Literacy, Commodity, Infrastructure.**
 
 In this subject you will learn how to do some basic coding and work with code to do some cool things. You will need to bring a laptop with you in classes to complete most activities.
