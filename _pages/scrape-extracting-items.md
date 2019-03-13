@@ -1,9 +1,3 @@
-::: {.container}
-::: {.navbar-header}
-[Toggle navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
-
-[DSM \| Code](../../../../index.html){.navbar-brand}
-:::
 ---
 title: Extracting items
 category: scrape
