@@ -136,3 +136,5 @@ docs:
         url: /scrapy/extracting-the-data
       - title: "Using your scraped data"
         url: /scrapy/using-your-scrape-data
+  - title: "Making Twitter bots"
+    url: /making-twitter-bots
