@@ -1,6 +1,7 @@
 ---
 title: Installation guides
-layout: default
+permalink: "/installation-guides"
+last_modified_at: "May 9, 2017"
 ---
 
 A quick guide on how to install pip and Beautiful Soup.
@@ -51,5 +52,3 @@ In terminal, type
 easy_install pip
 pip install BeautifulSoup4
 ```
-
-Updated on May 9, 2017

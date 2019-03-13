@@ -14,6 +14,8 @@
 docs:
   - title: Welcome
     url: /welcome
+  - title: Installation guides
+    url: /installation-guides
   - title: Coding
     children:
       - title: "Coding problems"
@@ -90,7 +92,7 @@ docs:
         url: /django/css
       - title: "Static files in Django"
         url: /django/static-files
-  - title: Data Scraping
+  - title: Beautiful Soup
     children:
       - title: "Getting started"
         url: /beautiful-soup/getting-started
@@ -106,3 +108,31 @@ docs:
         url: /beautiful-soup/export-your-data
       - title: "Advanced users"
         url: /beautiful-soup/advanced-users
+      - title: "Scraping a web page"
+        url: /beautiful-soup/scraping-a-web-page
+      - title: "Extracting the data"
+        url: /beautiful-soup/extracting-the-data
+    - title: Scrapy
+      children:
+      - title: "Introduction"
+        url: /scrapy/introduction
+      - title: "Installing Scrapy"
+        url: /scrapy/installing-scrapy
+      - title: "Creating a project"
+        url: /scrapy/creating-a-project"
+      - title: "Defining your item"
+        url: /scrapy/defining-your-item
+      - title: "Your first spider"
+        url: /scrapy/your-first-spider
+      - title: "Crawling"
+        url: /scrapy/crawling
+      - title: "Extracting items"
+        url: /scrapy/extracting-items
+      - title: "Selectors"
+        url: /scrapy/selectors
+      - title: "Extracting the data"
+        url: /scrapy/extracting-the-data
+      - title: "Using your scraped data"
+        url: /scrapy/using-your-scrape-data
+    - title: "Making Twitter bots"
+      url: /making-twitter-bots

@@ -1,8 +1,8 @@
 ---
 title: Your first spider
-category: django
+category: scrapy
 order: 
-permalink: "/scrape/your-first-spider"
+permalink: "/scrapy/your-first-spider"
 last_modified_at: "January 11, 2017"
 ---
 

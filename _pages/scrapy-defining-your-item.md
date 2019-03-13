@@ -1,8 +1,8 @@
 ---
 title: Defining your item
-category: scrape
+category: scrapy
 order: 
-permalink: "/scrape/defining-your-item"
+permalink: "/scrapy/defining-your-item"
 last_modified_at: "January 11, 2017"
 ---
 

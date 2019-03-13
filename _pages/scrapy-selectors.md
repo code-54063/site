@@ -1,8 +1,8 @@
 ---
 title: Selectors
-category: scrape
+category: scrapy
 order: 
-permalink: "/scrape/selectors"
+permalink: "/scrapy/selectors"
 last_modified_at: "January 11, 2017"
 ---
 

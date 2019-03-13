@@ -1,8 +1,8 @@
 ---
 title: Extracting items
-category: scrape
+category: scrapy
 order: 
-permalink: "/scrape/extracting-items"
+permalink: "/scrapy/extracting-items"
 last_modified_at: "January 11, 2017"
 ---
 

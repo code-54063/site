@@ -1,8 +1,8 @@
 ---
 title: Using your scraped data
-category: scrape
+category: scrapy
 order: 
-permalink: "/scrape/using-your-scrape-data"
+permalink: "/scrapy/using-your-scrape-data"
 last_modified_at: "January 11, 2017"
 ---
 

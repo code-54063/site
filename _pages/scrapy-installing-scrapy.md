@@ -1,8 +1,8 @@
 ---
 title: Installing Scrapy
-category: scrape
+category: scrapy
 order: 
-permalink: "/scrape/installing-scrapy"
+permalink: "/scrapy/installing-scrapy"
 last_modified_at: "March 16, 2017"
 ---
 

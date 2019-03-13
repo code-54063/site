@@ -1,8 +1,8 @@
 ---
-title: Data Scraping on Python 2.7 Example
-category: scrape
+title: Introduction
+category: scrapy
 order: 
-permalink: "/scrape/introduction"
+permalink: "/scrapy/introduction"
 last_modified_at: "September 26, 2017"
 ---
 
