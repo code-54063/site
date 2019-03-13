@@ -14,6 +14,78 @@
 docs:
   - title: Welcome
     url: /welcome
+  - title: Coding
+    children:
+      - title: "Coding problems"
+        url: /coding/problems
+      - title: "Coding exercises"
+        url: /coding/exercises
+  - title: Django
+    children:
+      - title: "Introduction 1"
+        url: /django/introduction-1
+      - title: "Introduction 2"
+        url: /django/introduction-2
+      - title: "Learning functions and terms"
+        url: /django/learning-functions-and-terms
+      - title: "Working with Strings and Variables"
+        url: /django/working-with-strings-and-variables
+      - title: "A Quick Quiz"
+        url: /django/quick-quiz
+      - title: "Working with log-ins"
+        url: /django/working-with-log-ins
+      - title: "What is Django?"
+        url: /django/what-is-django
+      - title: "Why do you need a framework?"
+        url: /django/why-do-you-need-a-framework
+      - title: "Setting up your environment"
+        url: /django/setting-up-your-environment
+      - title: "Working with virtualenv"
+        url: /django/working-with-virtualenv
+      - title: "Installing Django"
+        url: /django/installing-django
+      - title: "Code editor"
+        url: /django/code-editor
+      - title: "Your first Django project!"
+        url: /django/your-first-project
+      - title: "File Structure"
+        url: /django/file-structure
+      - title: "Settings"
+        url: /django/settings
+      - title: "Connecting a database"
+        url: /django/connecting-a-database
+      - title: "Starting the server"
+        url: /django/starting-the-server
+      - title: "Objects"
+        url: /django/objects
+      - title: "Models"
+        url: /django/models
+      - title: "Creating an application"
+        url: /django/creating-an-application
+      - title: "Creating a blog post model"
+        url: /django/creating-a-blog-post-model
+      - title: "Create tables for models in your database"
+        url: /django/create-tables-for-models-in-your-database
+      - title: "Introduction: Views"
+        url: /django/introduction-6
+      - title: "Django Admin"
+        url: /django/admin
+      - title: "URLs"
+        url: /django/urls
+      - title: "How do URLs work in Django?"
+        url: /django/how-do-urls-work-in-django
+      - title: "Regex"
+        url: /django/regex
+      - title: "Your first URL"
+        url: /django/your-first-url
+      - title: "Django Views"
+        url: /django/views
+      - title: "HTML"
+        url: /django/html
+      - title: "Your first template"
+        url: /django/your-first-template
+      - title: "Customize your template"
+        url: /django/customize-your-template
   - title: Data Scraping
     children:
       - title: "Getting started"
