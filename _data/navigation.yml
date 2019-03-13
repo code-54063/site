@@ -94,6 +94,8 @@ docs:
         url: /django/static-files
   - title: Beautiful Soup
     children:
+      - title: "Data scraping"
+        url: /beautiful-soup/data-scraping
       - title: "Getting started"
         url: /beautiful-soup/getting-started
       - title: "Data scraping example"
