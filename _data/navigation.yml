@@ -114,27 +114,3 @@ docs:
         url: /beautiful-soup/scraping-a-web-page
       - title: "Extracting the data"
         url: /beautiful-soup/extracting-the-data
-   - title: Scrapy
-     children:
-      - title: "Introduction"
-        url: /scrapy/introduction
-      - title: "Installing Scrapy"
-        url: /scrapy/installing-scrapy
-      - title: "Creating a project"
-        url: /scrapy/creating-a-project"
-      - title: "Defining your item"
-        url: /scrapy/defining-your-item
-      - title: "Your first spider"
-        url: /scrapy/your-first-spider
-      - title: "Crawling"
-        url: /scrapy/crawling
-      - title: "Extracting items"
-        url: /scrapy/extracting-items
-      - title: "Selectors"
-        url: /scrapy/selectors
-      - title: "Extracting the data"
-        url: /scrapy/extracting-the-data
-      - title: "Using your scraped data"
-        url: /scrapy/using-your-scrape-data
-   - title: "Making Twitter bots"
-     url: /making-twitter-bots
