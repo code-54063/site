@@ -86,6 +86,10 @@ docs:
         url: /django/your-first-template
       - title: "Customize your template"
         url: /django/customize-your-template
+      - title: "CSS: Make it pretty!"
+        url: /django/css
+      - title: "Static files in Django"
+        url: /django/static-files
   - title: Data Scraping
     children:
       - title: "Getting started"
