@@ -1,8 +1,8 @@
 ---
-title: Introduction 4
+title: What is Django?
 category: django
 order: 1
-permalink: "/django/introduction-4"
+permalink: "/django/what-is-django"
 last_modified_at: "August 22, 2017"
 ---
 

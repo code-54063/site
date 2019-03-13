@@ -2,7 +2,7 @@
 title: Introduction 2
 category: django
 order: 
-permalink: "/django/"
+permalink: "/django/introduction-2"
 last_modified_at: "July 26, 2018"
 ---
 

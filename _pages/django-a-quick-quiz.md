@@ -2,7 +2,7 @@
 title: A Quick Quiz
 category: django
 order: 
-permalink: "/django/"
+permalink: "/django/quick-quiz"
 last_modified_at: "April 19, 2017"
 ---
 

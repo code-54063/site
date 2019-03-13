@@ -2,11 +2,11 @@
 title: Why do you need a framework?
 category: django
 order: 
-permalink: "/django/introduction-5"
+permalink: "/django/why-do-you-need-a-framework"
 last_modified_at: "May 9, 2017"
 ---
 
-## Why do you need a framework? {#why-do-you-need-a-framework}
+## Why do you need a framework?
 
 To understand what Django is actually for, we need to take a closer look at the servers. The first thing is that the server needs to know that you want it to serve you a web page.
 

@@ -2,7 +2,7 @@
 title: Django views
 category: django
 order: 
-permalink: "/django/views-time-to-create"
+permalink: "/django/views"
 last_modified_at: "May 17, 2017"
 ---
 
