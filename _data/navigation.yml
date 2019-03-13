@@ -114,8 +114,8 @@ docs:
         url: /beautiful-soup/scraping-a-web-page
       - title: "Extracting the data"
         url: /beautiful-soup/extracting-the-data
-    - title: Scrapy
-      children:
+   - title: Scrapy
+     children:
       - title: "Introduction"
         url: /scrapy/introduction
       - title: "Installing Scrapy"
@@ -136,5 +136,5 @@ docs:
         url: /scrapy/extracting-the-data
       - title: "Using your scraped data"
         url: /scrapy/using-your-scrape-data
-    - title: "Making Twitter bots"
-      url: /making-twitter-bots
+   - title: "Making Twitter bots"
+     url: /making-twitter-bots
