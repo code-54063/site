@@ -22,7 +22,7 @@ name                     : ""
 description              : ""
 url                      : "http://www.dsmcode.com"
 baseurl                  : ""
-repository               : "code-54063"
+repository               : "code-54063/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo416X416.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -98,10 +98,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider: "google-gtag"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id: "UA-41474950-5"
+    anonymize_ip: false # default
 
 
 # Site Author

@@ -1,6 +1,5 @@
 ---
 title: CODE : DIGITAL SOCIAL MEDIA
-layout: default
 last_modified_at: "May 9, 2017"
 ---
 
