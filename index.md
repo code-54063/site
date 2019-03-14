@@ -1,6 +1,7 @@
 ---
 title: CODE : DIGITAL SOCIAL MEDIA
 layout: default
+last_modified_at: "May 9, 2017"
 ---
 
 [THIS WEBSITE refers to the 2018 unit]
@@ -24,5 +25,3 @@ Django is a framework, built with Python. It is an incredibly powerful framework
 An introduction into the world of scraping
 
 [CLICK HERE TO GET STARTED](/site/welcome)
-
-Updated on May 9, 2017
