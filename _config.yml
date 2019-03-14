@@ -291,3 +291,5 @@ defaults:
       toc: true
       sidebar:
         nav: "docs"
+# Search
+search: true
