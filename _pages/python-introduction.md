@@ -1,7 +1,7 @@
 ---
 title: An introduction to Python
 category: python-introduction
-order: 01
+order: 1
 permalink: "/python/introduction"
 last_modified_at: "June 15, 2019"
 ---
@@ -14,17 +14,25 @@ There are two separated actions and two different actors here:
 * The first actor is **the coder** (that is, you!). The coder **writes** the code as text contained in some file. 
 * The second actor is **the machine** (that is, what sits... well... everyewhere!). The machine **executes** the code written by the coder. 
 
-It is important that you appreciate these two roles and these two actions. Because after write your code, it is essential that you tell the machine to start executing (or running) your code.  
+It is important that you appreciate these two roles and these two actions. Because after you write your code, it is essential that you tell the machine to start executing (or running) your code.  
 
-If you are on reading this from an interactive [Jupyter Notebook](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook), after writing or editing a code cell, you can simply press the *run cell* button. ![run-jupyter-notebook-cell](https://cloudstor.aarnet.edu.au/plus/s/TBQRCEE8qs7SV1X/download)
+If you are on reading this from an interactive [Jupyter Notebook](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook), after writing or editing a code cell, you can simply press the *run cell* button. 
+
+|![run-jupyter-notebook-cell](https://cloudstor.aarnet.edu.au/plus/s/TBQRCEE8qs7SV1X/download)|
+|:--:| 
+| *The 'run cell' button in the Jupyter Notebook toolbar.* |
 
 If you are are reading this from a static document such a webpage, you will need to copy and paste (line by line!) the code into an interactive Python console and hit *return* after each line. 
 
-An interactive Python console waiting for your code!
-![terminal-python-shell](https://cloudstor.aarnet.edu.au/plus/s/US19MEsgf8i4oP1/download)
 
-And the iPython console in [Spyder](https://www.spyder-ide.org/).
-![spider-ipython-console](https://cloudstor.aarnet.edu.au/plus/s/oOCdKjc5BjOtYS2/download)
+|![terminal-python-shell](https://cloudstor.aarnet.edu.au/plus/s/US19MEsgf8i4oP1/download)|
+|:--:| 
+|*An interactive Python console waiting for your code!*|
+
+
+|![spider-ipython-console](https://cloudstor.aarnet.edu.au/plus/s/oOCdKjc5BjOtYS2/download)|
+|:--:| 
+|*And the iPython console in [Spyder](https://www.spyder-ide.org/).*|
 
 
 # A very simple set of instructions: the print() function
