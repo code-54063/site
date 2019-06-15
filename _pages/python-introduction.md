@@ -1,12 +1,10 @@
 ---
-title: Data scraping
+title: What's Python?
 category: python-introduction
 order: 01
 permalink: "/python/introduction"
 last_modified_at: "June 15, 2019"
 ---
-
-# What's Python?
 
 Python is a *programming language*. With a programming language you define a *set of instructions* for a machine to execute. Sometimes, a set of instructions written in a programming language is a computer program, a.k.a. **code**.
 
