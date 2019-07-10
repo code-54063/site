@@ -16,6 +16,11 @@ docs:
     url: /welcome
   - title: Getting started
     url: /getting-started
+    children:
+      - title: Anaconda
+        url: /getting-started/anaconda
+      - title: Jupyter Notebook
+        url: /getting-started/jupyter-notebook
   - title: Understanding Python
     url: /understanding-python
   - title: Web scraping with Python
