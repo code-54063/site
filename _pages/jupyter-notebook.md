@@ -33,7 +33,7 @@ If you want to take advantage of all the features offered by cloudstor --  inclu
   
 **Jupyter Notebook** is a web application that allows you to interact with a document that contains live code.
 
-Jupyter Notebook is part of the *Jupyter Project* which "exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages." (https://jupyter.org/)
+Jupyter Notebook is part of the *Jupyter Project* which "exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages." ([https://jupyter.org/](https://jupyter.org/))
 
 When you reach a Jupyter web application, you will see something like this
   
@@ -69,7 +69,7 @@ The notebook consists of a sequence of cells. A cell is a multiline text input f
 
 *Adapted from [here]( https://jupyter-notebook.readthedocs.io/en/stable/notebook.html\#code-cells).*
 
-A code cell allows you to edit and write new code, with full syntax highlighting that can help you detecting possible errors. The programming language you use depends on the kernel, and the default kernel (IPython) runs Python code.
+A code cell allows you to edit and write new code, with full syntax highlighting that can help you detect possible errors. The programming language you use depends on the kernel, and the default kernel (IPython) runs Python code.
 
 When a code cell is executed, code that it contains (as appears in the *display area* of the cell) is sent to the kernel associated with the notebook. The results that are returned from this computation are then displayed in the notebook as the cell's *output*. 
 
@@ -79,7 +79,7 @@ When a code cell is executed, code that it contains (as appears in the *display 
 
 ### Code cells
 
- Finally, the *input area* "is identified by the `In []:` prompt to the left of the cell. Between the brackets of the `In` prompt can be one of three items: *a number*, *an asterisk*, or *a blank*. A number indicates that this cell has been executed and the value of the number indicates the order of execution. For example, normally, after you execute the first cell after opening a notebook, its prompt will read `In [1]:`" (From https://jupyter4edu.github.io/jupyter-edu-book/jupyter.html\#using-jupyter-notebooks).
+ Finally, the *input area* "is identified by the `In []:` prompt to the left of the cell. Between the brackets of the `In` prompt can be one of three items: *a number*, *an asterisk*, or *a blank*. A number indicates that this cell has been executed and the value of the number indicates the order of execution. For example, normally, after you execute the first cell after opening a notebook, its prompt will read `In [1]:`" (From [https://jupyter4edu.github.io/jupyter-edu-book/jupyter.html\#using-jupyter-notebooks](https://jupyter4edu.github.io/jupyter-edu-book/jupyter.html\#using-jupyter-notebooks)).
 
 ![jupyter-input-area](https://cloudstor.aarnet.edu.au/plus/s/QonWeNKSwEZ5yJe/download)
 
