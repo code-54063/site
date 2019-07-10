@@ -6,7 +6,7 @@ permalink: "/understanding-python/introduction"
 last_modified_at: " July 10, 2019"
 ---
 
-*This page is also available as Jupyter interactive notebook. Download it from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/raw/master/understanding-python/python-01-introduction.ipynb?inline=false) and run it in your [cloudstor](/getting-started/jupyter-notebook).* 
+*This page is also available as Jupyter interactive notebook. Download it from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/raw/master/understanding-python/python-01-introduction.ipynb) and run it in your [cloudstor](/getting-started/jupyter-notebook).* 
 
 ## What's Python?
 
