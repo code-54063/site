@@ -29,9 +29,7 @@ If you want to take advantage of all the features offered by cloudstor --  inclu
 
 ## Jupyter Notebook
 
-![jupyter-logo](https://cloudstor.aarnet.edu.au/plus/s/wp8ozshID6Aq2rF/download) <!-- .element height="50" width="50" -->
-
-<img src="https://cloudstor.aarnet.edu.au/plus/s/wp8ozshID6Aq2rF/download" alt="jupyter-logo" height="42" width="42">
+<img src="https://cloudstor.aarnet.edu.au/plus/s/wp8ozshID6Aq2rF/download" alt="jupyter-logo" width="150">
   
 **Jupyter Notebook** is a web application that allows you to interact with a document that contains live code.
 
