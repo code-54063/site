@@ -1,7 +1,7 @@
 ---
 title:  Welcome
 permalink: "/welcome"
-last_modified_at: "July 26, 2018"
+last_modified_at: "July 10, 2019"
 ---
 
 **Hi everyone, welcome to Code as Literacy, Commodity, Infrastructure.**
@@ -26,11 +26,11 @@ To truly benefit from this subject you will need to participate actively in clas
 
 ### Before week 2
 
-The first thing that you will need to do is to download the Python interactive notebooks from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/-/archive/master/code-as-literacy-jupyter-notebooks-master.zip) and upload them in your own CloudStor. [This page]() will help you to understand how to do it.
+The first thing that you will need to do is to download the Python interactive notebooks from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/-/archive/master/code-as-literacy-jupyter-notebooks-master.zip) and upload them in your own CloudStor. [This page](/getting-started/jupyter-notebook) will help you to understand how to do it.
 
 ### Before week 3
 
-The most interesting coding activities will require that you install a Python distribution (we strongly suggest Anaconda) on your own computer. [This page]() will help you to understand how to do it.
+The most interesting coding activities will require that you install a Python distribution (we strongly suggest Anaconda) on your own computer. [This page](/getting-started/anaconda) will help you to understand how to do it.
 
 ## What you can do to get even readier
 
