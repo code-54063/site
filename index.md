@@ -1,9 +1,7 @@
 ---
-title: CODE : DIGITAL SOCIAL MEDIA
-last_modified_at: "Juky 10, 2019"
+title: UTS 54063 Code as Literacy, Commodity, Infrastructure : Homepage
+last_modified_at: "July 10, 2019"
 ---
-
-# Learn code
 
 Welcome to the **Code as literacy, commodity, infrastructure** webpage!
 
