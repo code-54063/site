@@ -10,51 +10,36 @@ In this subject you will learn how to do some basic coding and work with code to
 
 **Please contact us ASAP if you need a laptop for this subject, we will be able to source a laptop for you.**
 
-To prepare for the semester ahead, you need to complete the following tasks in Week 1. *You will not be able to effectively participate in Week 2 tutorials if you don't do these tasks*.
 
-## 1. You need to install the following programs to be able to complete participate in class activities. One Week 1 task is to install these applications onto a laptop. You need to install these programs in order.
+## Subject online resources
 
-### Install Python 3.5.0
+There are multiple online resources prepared for this subject:
 
-Download the Mac or Windows version of python (whichever is relevant for your OS) from this [link](https://www.python.org/downloads/release/python-350/).
+1. **[UTS Online](https://online.uts.edu.au)** where you can find, among others, details about weekly readings and assignments.
+2. **DSMCode.com** (this website) where you find materials and instructions related to coding.
+3. **[GitLab](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/tree/master)**  where you can download the notebooks that you can interactively execute in your CloudStor with SWAN.
+4.**Microsoft Teams** where you find two dedicated channels to solving issues with [installation](https://teams.microsoft.com/l/channel/19%3ab3c25b4281a940fb83a636837df86469%40thread.skype/Installation%2520issues?groupId=6b2b6609-a95b-40a2-8570-91455f3f78ba&tenantId=e8911c26-cf9f-4a9c-878e-527807be8791) and [coding](https://teams.microsoft.com/l/channel/19%3a769484749865406984d5d97a4bf7d25c%40thread.skype/Coding%2520issues?groupId=6b2b6609-a95b-40a2-8570-91455f3f78ba&tenantId=e8911c26-cf9f-4a9c-878e-527807be8791) (you will quickly find help, but you can also help others!).
 
-Relevant tutorial guides can be found [here](https://www.youtube.com/watch?v=-9_u93Nekqw) (Windows) and [here](https://www.youtube.com/watch?v=dZ6FlHBQiCU).
+## What you need to do to get ready
 
-### Move Python Directory (Windows Only)
+To truly benefit from this subject you will need to participate actively in class but also **online** and **on your own computer**.
 
-You need to move the major folder that contains Python to your `C:/`
+### Before week 2
 
-Search your computer to find the folder and drag it to your `C:/` (where Program Files etc. is).
+The first thing that you will need to do is to download the Python interactive notebooks from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/-/archive/master/code-as-literacy-jupyter-notebooks-master.zip) and upload them in your own CloudStor. [This page]() will help you to understand how to do it.
 
-or if you are confident go into IDLE and type:
+### Before week 3
 
-```
- import sys
- print(sys.path)
- ```
+The most interesting coding activities will require that you install a Python distribution (we strongly suggest Anaconda) on your own computer. [This page]() will help you to understand how to do it.
 
-This will show you where Python is located.
+## What you can do to get even readier
 
-My python folder was found in `C:/Users/\[UserName\]/AppData/Local/Programs/Python/Python35-32`.
+### If you are unfamiliar with coding
 
-### Check Python is installed into PATH (Windows Only)
+We recommend that you have a look at [this python-specific program](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code). But you can complete another tutorial if that looks more interesting to you. You can see other examples [here](https://code.org/learn).
 
-Open the [command prompt](http://www.digitalcitizen.life/7-ways-launch-command-prompt-windows-7-windows-8). Don't worry about changing directories. Just type in python and press enter. Python should open. If it doesn't, don't stress just make a note of it for now.
-
-### Install Sublime Text 3
-
-Download it [here](https://www.sublimetext.com/3).
-
-## 2. If you are unfamiliar with coding, practice an Hour of Code
-
-We recommend [this python-specific program](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code) but you can complete another tutorial if that looks more interesting to you. You can see other examples [here](https://code.org/learn).
-
-## 3. Get familiar with the command line
+### Get familiar with the command line
 
 If you are a Mac user: Spend some time playing around with the command line in Terminal and test out some of the commands in [this tutorial](https://www.lifehacker.com.au/2010/09/a-command-line-primer-for-beginners/).
 
 If you use PC: Read through [this tutorial](http://www.digitalcitizen.life/command-prompt-how-use-basic-commands) and experiment with the command line.
-
-## 4. We are also going to be holding a few impromptu extra coding workshops every so often for people who want to get even more coding practice (and have some fun!).
-
-The first one is an introduction to using and programming a SPRK+ Sphero (an actual robot) at the UTS Library. Places are limited to 35 students and you can sign up [here](http://www.lib.uts.edu.au/event/696945/54063-code-literacy-commodity-infrastructure-introduction-to-sphero-workshop).
