@@ -69,7 +69,7 @@ The notebook consists of a sequence of cells. A cell is a multiline text input f
 
 ### Code cells
 
-*Adapted from https://jupyter-notebook.readthedocs.io/en/stable/notebook.html\#code-cells*
+*Adapted from [here]( https://jupyter-notebook.readthedocs.io/en/stable/notebook.html\#code-cells).*
 
 A code cell allows you to edit and write new code, with full syntax highlighting that can help you detecting possible errors. The programming language you use depends on the kernel, and the default kernel (IPython) runs Python code.
 
