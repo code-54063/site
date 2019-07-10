@@ -1,6 +1,6 @@
 ---
 title: Anaconda
-category:getting-started
+category: getting-started
 order: 2
 permalink: "/getting-started/anaconda"
 last_modified_at: "July 10, 2019"
