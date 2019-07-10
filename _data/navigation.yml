@@ -15,16 +15,29 @@ docs:
   - title: "Welcome"
     url: /welcome
   - title: "Getting started"
-    url: /getting-started
+    # url: /getting-started
     children:
       - title: "Jupyter Notebook"
         url: /getting-started/jupyter-notebook
       - title: "Anaconda"
         url: /getting-started/anaconda
   - title: "Understanding Python"
-    url: /understanding-python
+    # url: /understanding-python
+    children:
+      - title: "Introduction"
+      url: /understanding-python/introduction
+      - title: "Why is coding so hard?"
+      url: /understanding-python/why-is-so-hard
+      - title: "Decision structures and boolean logic"
+      url: /understanding-python/decisions-and-logic
+      - title: "Repetition structures"
+      url: /understanding-python/repetition
+      - title: "Functions"
+      url: /understanding-python/functions
+      - title: "Object-oriented programming"
+      url: /understanding-python/object-oriented-programming
   - title: "Web scraping with Python"
-    url: /web-scraping-with-python
+    # url: /web-scraping-with-python
   - title: "Django"
     url: /django
     children:
