@@ -14,15 +14,14 @@
 docs:
   - title: Welcome
     url: /welcome
-  - title: Installation guides
-    url: /installation-guides
-  - title: Coding
-    children:
-      - title: "Coding problems"
-        url: /coding/problems
-      - title: "Coding exercises"
-        url: /coding/exercises
+  - title: Getting started
+    url: /getting-started
+  - title: Understanding Python
+    url: /understanding-python
+  - title: Web scraping with Python
+    url: /web-scraping-with-python
   - title: Django
+    url: /django
     children:
       - title: "Introduction 1"
         url: /django/introduction-1
