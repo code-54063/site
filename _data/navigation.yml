@@ -25,17 +25,17 @@ docs:
     # url: /understanding-python
     children:
       - title: "Introduction"
-      url: /understanding-python/introduction
+        url: /understanding-python/introduction
       - title: "Why is coding so hard?"
-      url: /understanding-python/why-is-so-hard
+        url: /understanding-python/why-is-so-hard
       - title: "Decision structures and boolean logic"
-      url: /understanding-python/decisions-and-logic
+        url: /understanding-python/decisions-and-logic
       - title: "Repetition structures"
-      url: /understanding-python/repetition
+        url: /understanding-python/repetition
       - title: "Functions"
-      url: /understanding-python/functions
+        url: /understanding-python/functions
       - title: "Object-oriented programming"
-      url: /understanding-python/object-oriented-programming
+        url: /understanding-python/object-oriented-programming
   - title: "Web scraping with Python"
     # url: /web-scraping-with-python
   - title: "Django"
