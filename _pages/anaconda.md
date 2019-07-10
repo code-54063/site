@@ -73,7 +73,7 @@ With *Spyder*, you have access to a Python *interpreter* (2) where you can enter
 
 But you can also open a text file containing Python code (1) and execute it. 
 
-![anaconda-spyder](https://cloudstor.aarnet.edu.au/plus/s/TlWq5OotEpMqHar)
+![anaconda-spyder](https://cloudstor.aarnet.edu.au/plus/s/TlWq5OotEpMqHar/download)
 
 
 
