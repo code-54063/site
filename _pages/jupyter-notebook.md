@@ -30,6 +30,8 @@ If you want to take advantage of all the features offered by cloudstor --  inclu
 ## Jupyter Notebook
 
 ![jupyter-logo](https://cloudstor.aarnet.edu.au/plus/s/wp8ozshID6Aq2rF/download){:height="50px"}
+
+<img src="https://cloudstor.aarnet.edu.au/plus/s/wp8ozshID6Aq2rF/download" alt="jupyter-logo" height="42" width="42">
   
 **Jupyter Notebook** is a web application that allows you to interact with a document that contains live code.
 
@@ -44,7 +46,7 @@ At this point you can either create your interactive notebook (in Python or in a
 
 ### Notebook user interface
 
-*Adapted from https://jupyter-notebook.readthedocs.io/en/stable/notebook.html\#notebook-user-interface.*
+*Adapted from [here](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html\#notebook-user-interface).*
 
 ![jupyter-notebook-ui](https://cloudstor.aarnet.edu.au/plus/s/1K0ZuFi9rgp6ZgO/download)
 
@@ -56,7 +58,7 @@ At this point you can either create your interactive notebook (in Python or in a
 
 ### Structure of a notebook document
 
-*Adapted from https://jupyter-notebook.readthedocs.io/en/stable/notebook.html\#structure-of-a-notebook-document.*
+*Adapted from [here](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html\#structure-of-a-notebook-document).*
 
 The notebook consists of a sequence of cells. A cell is a multiline text input field, and its contents when the cell is selected can be executed
 
@@ -67,7 +69,7 @@ The notebook consists of a sequence of cells. A cell is a multiline text input f
 
 ### Code cells
 
-*Adapted from {https://jupyter-notebook.readthedocs.io/en/stable/notebook.html\#code-cells*
+*Adapted from https://jupyter-notebook.readthedocs.io/en/stable/notebook.html\#code-cells*
 
 A code cell allows you to edit and write new code, with full syntax highlighting that can help you detecting possible errors. The programming language you use depends on the kernel, and the default kernel (IPython) runs Python code.
 
