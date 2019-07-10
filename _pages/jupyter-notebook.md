@@ -1,6 +1,6 @@
 ---
 title: Jupyter Notebook
-category:getting-started
+category: getting-started
 order: 1
 permalink: "/getting-started/jupyter-notebook"
 last_modified_at: "July 10, 2019"
