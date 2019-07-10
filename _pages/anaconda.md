@@ -59,7 +59,7 @@ After completing the installation of Anaconda, you should make sure that you can
 1. Launch *Terminal* (if you don't know where is it, just search it with *Spotlight*, the small magnifying glass in the top-right corner);
 2. Type `python`.
 
-After your Python interpreted is started you should be able to read `Anaconda, Inc.` somewhere after the information about your Python version (which should be Python 3.7.1 or higher).
+After your Python interpreter is started you should be able to read `Anaconda, Inc.` somewhere after the information about your Python version (which should be Python 3.7.1 or higher).
 
 You can now interactively code in Python!
     
@@ -71,7 +71,7 @@ After installing Anaconda, you should find *Anaconda Navigator* in your Applicat
 
 With *Spyder*, you have access to a Python *interpreter* (2) where you can enter Python commands and run them interactively.
 
-But you can also open a text file with containing Python code (1) and execute it. 
+But you can also open a text file containing Python code (1) and execute it. 
 
 ![anaconda-spyder](https://cloudstor.aarnet.edu.au/plus/s/TlWq5OotEpMqHar)
 
@@ -79,7 +79,7 @@ But you can also open a text file with containing Python code (1) and execute it
 
 ### Installing Python packages with Conda
 
-There are (in June 2019) 63,595 Python packages out there. By installing these packages, you will get access to hundred of thousands of functions written and donated to the Python community. That is, learning to install and use additional packages is essential.
+There are (in June 2019) 63,595 Python packages out there. By installing these packages, you will get access to hundreds of thousands of functions written and donated to the Python community. That is, learning to install and use additional packages is essential.
 
 By installing Anaconda, you have also installed **Conda**, which is a package management system.
 
@@ -87,7 +87,7 @@ For example, if you want to install a package called `django` with *Conda* simpl
 
 To check if Django installed correctly, launch `python` and in the Python interpreter type `import django`: no message means the package loaded correctly.
 
-## Issues installing/using software?
+## Issues installing/using the software?
 
 Post a question on [Teams](https://teams.microsoft.com/l/team/19%3abef8a451adf949aba91629d0f8666574%40thread.skype/conversations?groupId=6b2b6609-a95b-40a2-8570-91455f3f78ba&tenantId=e8911c26-cf9f-4a9c-878e-527807be8791)!
 
