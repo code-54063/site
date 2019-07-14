@@ -71,11 +71,9 @@ In Git-world everything is contained by a *repository*, or a *repo* for short.
 
 You can think of a Git *repository* as a directory with a bunch of files and subdirectories. If you decide to use Git for your project, a *repository* will likely contains all your files.
 
-![directory](https://cloudstor.aarnet.edu.au/plus/s/C6eKuGrAcxY4Vju/download)
-
 ### Chronological versions of a file (Git workflow)
 
-![file](https://cloudstor.aarnet.edu.au/plus/s/E5guLK824ofJABx)
+![file](https://cloudstor.aarnet.edu.au/plus/s/E5guLK824ofJABx/download)
 
 Let's say that you have a file `my_file.txt` that you want to track. 
 
@@ -93,9 +91,6 @@ git commit
 
 ### Parallel versions of a file (Git workflow)
 Now let's say that both Alice and Bob wants to work on the same file *at the same time*.
-
-| ![](https://cloudstor.aarnet.edu.au/plus/s/KjEsTFLjzTmObEZ/download)  | ![](https://cloudstor.aarnet.edu.au/plus/s/m0dAPbE5SPPAzKX/man)  |
-|---|---|
 
 Both can then create a *branch* of the project with
 
@@ -174,7 +169,7 @@ Let's clone our existing repository hosted on GitLab.
 
 To clone a GitLab repository, you will need to indicate a directory on your computer where to store the repository ("Local path") and crucially the URL of the existing repository on GitLab (or wherever) you want to *clone*. To get the URL of your GitLab repository, you can simply copy the URL you see in your browser when you are on the project and add a `.git` to its end.
 
-![github-desktop-clone-repository](https://cloudstor.aarnet.edu.au/plus/s/Eck9FjCzFTYNyiH)
+![github-desktop-clone-repository](https://cloudstor.aarnet.edu.au/plus/s/Eck9FjCzFTYNyiH/download)
 
  The URL will be something like `https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks.git`, but instead of `143852` your UTS number and instead of `code-as-literacy-jupyter-notebooks` the slug identifying your project.
 
@@ -184,4 +179,4 @@ Once you have created the local repository, which is linked to the online reposi
 
 ![github-desktop-commit-push](https://cloudstor.aarnet.edu.au/plus/s/gNIlwUfB1aiyok3/download)
 
-![github-desktop-authenticate](https://cloudstor.aarnet.edu.au/plus/s/gNIlwUfB1aiyok3)
+![github-desktop-authenticate](https://cloudstor.aarnet.edu.au/plus/s/gNIlwUfB1aiyok3/download)
