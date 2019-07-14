@@ -64,7 +64,7 @@ the previous cell will not output anything (there's not a `print()` statement an
 print(returned_value)
 ```
 
-## Excercise
+## Exercise
 
 Can you complete the following code so that the function will add two numbers and print the solution?
 
@@ -80,3 +80,7 @@ sumTwoNumbers(34, 86)
 ```
 
 Did you get an error such as `TypeError: Can't convert 'int' object to str implicitly`? Remember that you can't concatenate a string to a number. You need to convert the number to a type string first with `str()`.
+
+## Additional resources
+
+- [Python functions](https://www.lynda.com/Python-tutorials/Python-functions/661773/707224-4.html?org=uts.edu.au) on Lynda.com.
