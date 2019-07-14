@@ -15,7 +15,7 @@ docs:
   - title: "Welcome"
     url: /welcome
   - title: "Getting started"
-    # url: /getting-started
+    url: /getting-started
     children:
       - title: "Jupyter Notebook"
         url: /getting-started/jupyter-notebook
