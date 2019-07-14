@@ -8,7 +8,7 @@ last_modified_at: "July 10, 2019"
 
 In this subject you will learn how to do some basic coding and work with code to do some cool things. You will need to bring a laptop with you in classes to complete most activities.
 
-**Please contact us ASAP if you need a laptop for this subject, we will be able to source a laptop for you.**
+**Please contact us ASAP if you need a laptop for this subject, we might be able to source a laptop for you.**
 
 
 ## Subject online resources
