@@ -21,6 +21,8 @@ docs:
         url: /getting-started/jupyter-notebook
       - title: "Anaconda"
         url: /getting-started/anaconda
+      - title: "Git and GitLab"
+        url: /getting-started/git-gitlab
   - title: "Understanding Python"
     # url: /understanding-python
     children:
