@@ -10,7 +10,7 @@ To truly benefit from this subject you will need to participate actively in clas
 
 ### Before week 2
 
-The first thing that you will need to do is to download the Python interactive notebooks from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/-/archive/master/code-as-literacy-jupyter-notebooks-master.zip) and upload them in your own CloudStor. [This page](/getting-started/jupyter-notebook) will help you to understand how to do it.
+The first thing that you will need to do is to download the Python interactive notebooks from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/-/archive/master/code-as-literacy-jupyter-notebooks-master.zip) and upload them in your own CloudStor (the notebook files are in a subfolder and end with `.ipynb`). [This page](/getting-started/jupyter-notebook) will help you to understand how to do it.
 
 ### Before week 3
 

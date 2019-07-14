@@ -73,8 +73,6 @@ You can think of a Git *repository* as a directory with a bunch of files and sub
 
 ### Chronological versions of a file (Git workflow)
 
-![file](https://cloudstor.aarnet.edu.au/plus/s/E5guLK824ofJABx/download)
-
 Let's say that you have a file `my_file.txt` that you want to track. 
 
 You can *add* the file to your *repository* simply with
