@@ -1,3 +1,11 @@
+---
+title: Git and GitLab
+category: getting-started
+order: 3
+permalink: "/getting-started/git-gitlab"
+last_modified_at: " July 14, 2019"
+---
+
 ## Git
 
 **Git** is a version control system for *text files* (Yes, it can also track *binary* files (that is, non-text files)... but it is mainly used track text files!)
