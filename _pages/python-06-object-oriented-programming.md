@@ -61,3 +61,5 @@ John._____
 ## Additional resources
 
 - [Classes](https://www.lynda.com/Python-tutorials/Classes/661773/707227-4.html?org=uts.edu.au) on Lynda.com
+
+- One of the best [lecture on object-oriented programming and classes](https://youtu.be/nWheM30THaY) you will find anywhere (by Professor Mehran Sahami for the Stanford Computer Science Department)
