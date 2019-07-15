@@ -2,7 +2,7 @@
 title: Inspecting the page
 category: web-scraping-with-python
 permalink: "/web-scraping-with-python/inspecting-the-page"
-last_modified_at: "July 15, 2018"
+last_modified_at: "July 15, 2019"
 ---
 
 ## Looking into the HTML
