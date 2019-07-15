@@ -32,7 +32,7 @@ search_resp = requests.get(search_url, headers=search_headers, params=search_par
 
 In this tutorial we won't explain how to get data from API. The web scraping tutorial is composed of these pages (ideally to be followed in this order):
 
-1. [Getting started](/web-scraping-with-python/beautifulsoup-01-getting-started) (with an example)
+1. [Getting started](/web-scraping-with-python/getting-started) (with an example)
 2. [Understanding HTML]
 3. Inspecting the page
 4. Writing your scraping script
