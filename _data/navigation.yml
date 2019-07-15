@@ -55,8 +55,8 @@ docs:
       #  url: /beautiful-soup/advanced-users
       - title: "Scraping a web page"
         url: /web-scraping-with-python/scraping-a-web-page
-      - title: "Extracting the data"
-        url: /beautiful-soup/extracting-the-data
+      # - title: "Extracting the data"
+      #  url: /beautiful-soup/extracting-the-data
   - title: "Django"
     url: /django
     children:
