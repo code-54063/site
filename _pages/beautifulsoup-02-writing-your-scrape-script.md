@@ -14,7 +14,6 @@ First, we need to import all the libraries that we are going to use.
 
 
 ```python
-import urllib
 from bs4 import BeautifulSoup
 ```
 

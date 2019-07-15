@@ -51,10 +51,10 @@ docs:
         url: /web-scraping-with-python/writing-your-scrape-script
       - title: "Export your data"
         url: /beautiful-soup/export-your-data
-      - title: "Advanced users"
-        url: /beautiful-soup/advanced-users
+      # - title: "Advanced users"
+      #  url: /beautiful-soup/advanced-users
       - title: "Scraping a web page"
-        url: /beautiful-soup/scraping-a-web-page
+        url: /web-scraping-with-python/scraping-a-web-page
       - title: "Extracting the data"
         url: /beautiful-soup/extracting-the-data
   - title: "Django"
