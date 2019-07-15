@@ -87,3 +87,11 @@ which should return three items. Or if we are only interested in the actual stri
 for link in soup.find_all('a'):
     print(link.get('href'))
 ```
+## Exercise
+
+How would print our the text contained in the three `<a>` tags?
+
+```python
+for ____ in soup.find_all('a'):
+    print(____.string)
+```
