@@ -1,7 +1,6 @@
 ---
 title: Writing your scrape script
 category: web-scraping-with-python
-order: 1
 permalink: "/web-scraping-with-python/writing-your-scrape-script"
 last_modified_at: "July 15, 2019"
 ---
