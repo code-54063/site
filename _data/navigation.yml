@@ -39,7 +39,7 @@ docs:
       - title: "Object-oriented programming"
         url: /understanding-python/object-oriented-programming
   - title: "Web scraping with Python"
-    # url: /web-scraping-with-python
+    url: /web-scraping-with-python
     children:
       - title: "Getting started"
         url: /web-scraping-with-python/getting-started
