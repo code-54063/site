@@ -1,8 +1,5 @@
 ---
 title: Writing your scraping script
-category: beautiful-soup
-order: 5
-permalink: "/beautiful-soup/writing-your-scrape-script"
 last_modified_at: "October 5, 2017"
 --- 
 
