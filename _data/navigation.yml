@@ -44,9 +44,9 @@ docs:
       - title: "Getting started"
         url: /web-scraping-with-python/getting-started
       - title: "Understanding HTML"
-        url: /beautiful-soup/understanding-html
-      - title: " Inspecting the page"
-        url: /beautiful-soup/inspecting-the-page
+        url: /web-scraping-with-python/understanding-html
+      - title: "Inspecting the page"
+        url: /web-scraping-with-python/inspecting-the-page
       - title: "Writing your scraping script"
         url: /beautiful-soup/writing-your-scrape-script
       - title: "Export your data"
