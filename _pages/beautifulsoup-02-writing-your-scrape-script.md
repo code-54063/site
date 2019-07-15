@@ -5,7 +5,7 @@ permalink: "/web-scraping-with-python/writing-your-scrape-script"
 last_modified_at: "July 15, 2019"
 ---
 
-*This page is also available as Jupyter interactive notebook. Download it from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/blob/master/web-scraping-with-python/beautifulsoup-01-getting-started.ipynb) and run it in your [cloudstor](/getting-started/jupyter-notebook).* 
+*This page is also available as Jupyter interactive notebook. Download it from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/blob/master/web-scraping-with-python/beautifulsoup-02-writing-your-scrape-script.ipynb) and run it in your [cloudstor](/getting-started/jupyter-notebook).* 
 
 
 Now that we know where our data is, we can start coding our web scraper. You can follow this tutorial either in Jupyter or by executing the code on your own computer.
