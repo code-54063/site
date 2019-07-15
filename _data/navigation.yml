@@ -41,10 +41,8 @@ docs:
   - title: "Web scraping with Python"
     # url: /web-scraping-with-python
     children:
-      - title: "Data scraping"
-        url: /beautiful-soup/data-scraping
       - title: "Getting started"
-        url: /beautiful-soup/getting-started
+        url: /web-scraping-with-python/getting-started
       - title: "Data scraping example"
         url: /beautiful-soup/data-scraping-example
       - title: "Understanding HTML"
