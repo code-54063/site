@@ -1,11 +1,11 @@
 --
-title: Object-oriented programming
+title: Web scraping with Python
 category: web-scraping-with-python
 permalink: "/web-scraping-with-python"
 last_modified_at: " July 15, 2019"
 ---
 
-In the following pages, we'll understand how to use Python to collect data from the web. Generally speaking, there are two way to collect data from the web:
+In the following pages, we'll understand how to use Python to collect data from the web using [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/), a Python library. Generally speaking, there are two way to collect data from the web:
 
 1. Download a web page - the exact same HTML document that is rendered by your browser every time you visit google.com, facebook.com, uts.edu.au or any other webpage out there - and *parse* programmatically from the document the content we might be interested in. This task is generally referred to as *scraping*.
 
