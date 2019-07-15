@@ -7,7 +7,7 @@ last_modified_at: " July 15, 2019"
 
 In this section you will find six quick tutorials. The documents are static, if you want to use them interactively (so changing and running the Python code), you will need to download the `.ipynb` files  (you can download the all the files at once from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/-/archive/master/code-as-literacy-jupyter-notebooks-master.zip)), upload them in your [cloudstor](http://www.dsmcode.com/getting-started/jupyter-notebook#cloudstor) and run them with [SWAN](http://www.dsmcode.com/getting-started/jupyter-notebook#cloudstor--jupyter-notebook--swan).
 
-We suggest to complete the tutorials in this order
+We suggest to complete the tutorials in this order:
 
 1. [Introduction](/understanding-python/introduction)
 2. [Why is coding so hard?(/understanding-python/why-is-so-hard)
