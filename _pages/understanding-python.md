@@ -1,4 +1,4 @@
---
+---
 title: Understanding Python
 category: understanding-python
 permalink: "/understanding-python"
