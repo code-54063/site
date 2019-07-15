@@ -10,7 +10,7 @@ In this section you will find six quick tutorials. The documents are static, if 
 We suggest to complete the tutorials in this order:
 
 1. [Introduction](/understanding-python/introduction)
-2. [Why is coding so hard?(/understanding-python/why-is-so-hard)
+2. [Why is coding so hard?](/understanding-python/why-is-so-hard)
 3. [Decision structures and boolean logic](/understanding-python/decisions-and-logic)
 4. [Repetition structures](/understanding-python/repetition)
 5. [Functions](/understanding-python/functions)
