@@ -92,7 +92,7 @@ for i in range(10):
     print("cat")
 ```
 
-# Excercises
+## Exercise
 
 Complete the following code so to print `dog` exactly five times.
 
@@ -101,3 +101,8 @@ Complete the following code so to print `dog` exactly five times.
 ____:
     print('dog')
 ```
+
+## Additional resources
+
+- [Loops](https://www.lynda.com/Python-tutorials/Loops/661773/707226-4.html?org=uts.edu.au) on Lynda.com.
+

@@ -59,7 +59,7 @@ else:
 In the previous example, `statement 3` and `statement 4` are executed by the intepreter only if the *condition* in the first line is `False`, in which case `statement 1` and `statement 2` are *not* executed. Simple. Just be careful to the indentation!
 
 
-## Excercises
+## Exercises
 
 In the following cells, replace `____` so that the intepreter will always print `yes`.
 
@@ -92,3 +92,7 @@ if a != b:
 else:
     print('no')
 ```
+
+## Additional resources
+
+- [Conditional structures](https://www.lynda.com/Python-tutorials/Conditional-structures/661773/707225-4.html?org=uts.edu.au) on Lynda.com.

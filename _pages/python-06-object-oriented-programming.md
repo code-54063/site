@@ -50,7 +50,7 @@ Once the the two users are finally created, we can used the method defined for t
 Alice.online()
 ```
 
-## Excercise
+## Exercise
 
 How would you set the status of John to `Driving home`?
 
@@ -58,3 +58,6 @@ How would you set the status of John to `Driving home`?
 ```python
 John._____
 ```
+## Additional resources
+
+- [Classes](https://www.lynda.com/Python-tutorials/Classes/661773/707227-4.html?org=uts.edu.au) on Lynda.com
