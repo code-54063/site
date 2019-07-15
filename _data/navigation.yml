@@ -48,7 +48,7 @@ docs:
       - title: "Inspecting the page"
         url: /web-scraping-with-python/inspecting-the-page
       - title: "Writing your scraping script"
-        url: /beautiful-soup/writing-your-scrape-script
+        url: /web-scraping-with-python/writing-your-scrape-script
       - title: "Export your data"
         url: /beautiful-soup/export-your-data
       - title: "Advanced users"
