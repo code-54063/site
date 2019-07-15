@@ -43,8 +43,6 @@ docs:
     children:
       - title: "Getting started"
         url: /web-scraping-with-python/getting-started
-      - title: "Data scraping example"
-        url: /beautiful-soup/data-scraping-example
       - title: "Understanding HTML"
         url: /beautiful-soup/understanding-html
       - title: " Inspecting the page"

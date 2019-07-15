@@ -1,8 +1,7 @@
 ---
 title: Understanding HTML
-category: beautiful-soup
-order: 3
-permalink: "/beautiful-soup/understanding-html"
+category: web-scraping-with-python
+permalink: "/web-scraping-with-python/understanding-html"
 last_modified_at: "January 27, 2017"
 ---
 
