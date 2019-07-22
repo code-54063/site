@@ -24,6 +24,8 @@ import sys
 !{sys.executable} -m pip install --user bs4
 ```
 
+If you are using Jupyter, make sure you restart the Kernel after the installation with "Kernel" -> "Restart".
+
 ## Beautiful Soup: A working example
 
 Let's now try to run the following example code to check that everything is properly installed on our computer or on Jupyter. The code is taken from the official documentation of the package (if you want have a look [here](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)). 

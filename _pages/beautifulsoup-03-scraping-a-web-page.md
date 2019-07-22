@@ -12,8 +12,9 @@ last_modified_at: "July 15, 2019"
 
 
 ```python
-#import the library used to query a website
+#import the libraries used to query a website
 from bs4 import BeautifulSoup
+import urllib.request
 
 #specify the url
 wiki = "https://en.wikipedia.org/wiki/List_of_state_and_union_territory_capitals_in_India"

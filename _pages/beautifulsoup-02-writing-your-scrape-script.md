@@ -15,9 +15,12 @@ First, we need to import all the libraries that we are going to use.
 
 ```python
 from bs4 import BeautifulSoup
+import urllib.request
 ```
 
-(If you get an error, make sure you have correctly installed `BeautifulSoup`: see [here](http://www.dsmcode.com/web-scraping-with-python/getting-started).)
+If you get an error, make sure you have:
+1. Correctly installed `BeautifulSoup`: see [here](http://www.dsmcode.com/web-scraping-with-python/getting-started),
+2. Restarted the Kernel after completing the installation with "Kernel" -> "Restart".
 
 Next, declare a variable for the url of the page of Apocalypse Now on the *Internet Movie Database* (IMDb).
 
@@ -83,6 +86,6 @@ How would you get the duration of the movie?
 
 ```python
 duration_box = soup.find('_____')
-score = duration_box._____.strip()
+duration = duration_box._____.strip()
 print(score)
 ```
