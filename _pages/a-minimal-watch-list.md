@@ -24,3 +24,4 @@ It is minimal, not comprehensive.
   * Impressing Their Friends [YouTube](https://youtu.be/sX5g0kidk3Y)
   * Riding the Bear [YouTube](https://youtu.be/EiffgiRAYUI)
   * Great Artists Steal [YouTube](https://youtu.be/ZFUsYXZSMqs)
+* *TPB AFK: The Pirate Bay Away from Keyboard* by Simon Klose (2013) [YouTube](https://youtu.be/eTOKXCEwo_8)
