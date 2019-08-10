@@ -4,11 +4,7 @@ permalink: "/minimal-watch-list"
 last_modified_at: " August 10, 2019"
 ---
 
-# Code: (A minimal) watch list
-
-The following list of videos (films, documentaries and other stuff) was originally compiled for my students in the subject of Code as Literacy, Commodity, Infrastructure.
-
-It is minimal, not comprehensive. If you think something is missing or if you think something shouldn't be here, create an issue.
+It is minimal, not comprehensive.
 
 * *Lo and Behold, Reveries of the Connected World* by Werner Herzog (2016) [Kanopy @ UTS](https://uts.kanopy.com/video/lo-and-behold-reveries-connected-world)
 * *Connections* by James Burke (1978)
