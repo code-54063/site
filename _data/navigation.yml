@@ -72,18 +72,18 @@ docs:
       #  url: /django/working-with-strings-and-variables
       # - title: "A Quick Quiz"
       #  url: /django/quick-quiz
-      - title: "Working with log-ins"
-        url: /django/working-with-log-ins
       # - title: "What is Django?"
       #  url: /django/what-is-django
       - title: "Why do you need a framework?"
         url: /django/why-do-you-need-a-framework
       - title: "Setting up your environment"
         url: /django/setting-up-your-environment
-      - title: "Working with virtualenv"
-        url: /django/working-with-virtualenv
-      - title: "Installing Django"
-        url: /django/installing-django
+      - title: "Working with log-ins"
+        url: /django/working-with-log-ins
+      # - title: "Working with virtualenv" EDIT THIS
+      #  url: /django/working-with-virtualenv EDIT THIS
+      # - title: "Installing Django" EDIT THIS
+      #  url: /django/installing-django EDIT THIS
       - title: "Code editor"
         url: /django/code-editor
       - title: "Your first Django project!"
