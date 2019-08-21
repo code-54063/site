@@ -62,20 +62,20 @@ docs:
   - title: "Django"
     url: /django
     children:
-      - title: "Introduction 1"
-        url: /django/introduction-1
-      - title: "Introduction 2"
-        url: /django/introduction-2
-      - title: "Learning functions and terms"
-        url: /django/learning-functions-and-terms
-      - title: "Working with Strings and Variables"
-        url: /django/working-with-strings-and-variables
-      - title: "A Quick Quiz"
+      # - title: "Introduction 1"
+      #  url: /django/introduction-1
+      # - title: "Introduction 2"
+      #  url: /django/introduction-2
+      # - title: "Learning functions and terms"
+      #  url: /django/learning-functions-and-terms
+      # - title: "Working with Strings and Variables"
+      #  url: /django/working-with-strings-and-variables
+      # - title: "A Quick Quiz"
         url: /django/quick-quiz
       - title: "Working with log-ins"
         url: /django/working-with-log-ins
-      - title: "What is Django?"
-        url: /django/what-is-django
+      # - title: "What is Django?"
+      #  url: /django/what-is-django
       - title: "Why do you need a framework?"
         url: /django/why-do-you-need-a-framework
       - title: "Setting up your environment"

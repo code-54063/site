@@ -1,8 +1,7 @@
 ---
 title: What is Django?
 category: django
-order: 1
-permalink: "/django/what-is-django"
+permalink: "/django"
 last_modified_at: "August 22, 2017"
 ---
 
