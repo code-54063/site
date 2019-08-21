@@ -71,7 +71,7 @@ docs:
       # - title: "Working with Strings and Variables"
       #  url: /django/working-with-strings-and-variables
       # - title: "A Quick Quiz"
-        url: /django/quick-quiz
+      #  url: /django/quick-quiz
       - title: "Working with log-ins"
         url: /django/working-with-log-ins
       # - title: "What is Django?"
