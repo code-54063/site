@@ -6,26 +6,24 @@ permalink: "/django/setting-up-your-environment"
 last_modified_at: "August 25, 2019"
 ---
 
-## Virtual environment
-
 Before we install Django we will get you to install an extremely useful tool to help keep your **coding environment** tidy on your computer. It's possible to skip this step, but it's highly recommended. Starting with the best possible setup will save you a lot of trouble in the future!
 
 You can create your environment in Anaconda or with *virtualenv*.
 
-### Managing environments with Anaconda
+## Managing environments with Anaconda
 
 Creating a new environment in Anaconda is very easy. Just open the Anaconda Navigator. For a more comprehensive documentation see [this](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments/).
 
 ![anaconda-navigator-environments-1](https://cloudstor.aarnet.edu.au/plus/s/BkIshsGzQq6QPKy/download)
 
-#### Creating an environment 
+### Creating an environment 
 
 1. At the bottom of the environments list, click the "Create" button.
 2. In the Create Environment dialog box, type a descriptive name for your new environment.
 3. Select "Python" and choose a Python version (just do not choose Python 2!).
 4. Click the Create button.
 
-#### Installing optional packages
+### Installing optional packages
 
 Your new environment will already have a few essential packages installed. Probably, Django is not among them. To install Django in you environment you will need to
 
@@ -44,7 +42,7 @@ Your new environment will already have a few essential packages installed. Proba
 
 Your package is now installed!
 
-#### Using an environment
+### Using an environment
 
 If you go back to your Anaconda Navigator "Home", you will see that your new environment is available. Just select it, reinstall the application that you plan to use (maybe Spyder?) and launch it.
 
@@ -53,7 +51,7 @@ If you go back to your Anaconda Navigator "Home", you will see that your new env
 If you want to use the environment from the command line open you Terminal (Mac) or your Anaconda Prompt in Windows and run `source activate my-environment` (assuming that your environment is named "my-environment") - you can also try `conda activate my-environment`. You will then be within the environment (the prompt should change to reflect that).
 
 
-### Creating environments with virtualenv
+## Creating environments with virtualenv
 
 So, let's create a virtual environment (also called a *virtualenv*). Virtualenv will isolate your Python/Django setup on a per-project basis. This means that any changes you make to one website won't affect any others you're also developing. Neat, right?
 
@@ -65,7 +63,7 @@ For Windows, the easiest thing to do is just make a new folder in your `C:/` thr
 
 Here, we'll use a package manager called `pip`. For more information, [see this page.](https://en.wikipedia.org/wiki/Pip_(package_manager)).
 
-#### Setting up your environment: OSX
+### Setting up your environment: OSX
 
 *Please refer to command line basics for an introduction to navigating files using the command line.*
 
@@ -87,13 +85,13 @@ Check that it installed by running: `virtualenv --version`.
 
 In this location, create a virtual environment (the folder will be called `myvenv`): `python3 -m venv myvenv`.
 
-#### Setting up your environment: Windows
+### Setting up your environment: Windows
 
-##### Your username 
+#### Your username 
 
 On Windows, make sure that this directory (which uses your username) does not contain accented or special characters (even just a space). If your Windows PC or **username** contains special characters, use a different directory, for example `C:\uts`.
 
-#### Get started
+### Get started
 
 Firstly navigate to `C:/`
 
