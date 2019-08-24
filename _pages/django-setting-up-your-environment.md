@@ -10,11 +10,11 @@ last_modified_at: "August 25, 2019"
 
 Before we install Django we will get you to install an extremely useful tool to help keep your **coding environment** tidy on your computer. It's possible to skip this step, but it's highly recommended. Starting with the best possible setup will save you a lot of trouble in the future!
 
-You can create your environment in Anaconda (recommended if you are using Anaconda) o with *virtualenv*.
+You can create your environment in Anaconda or with *virtualenv*.
 
 ### Managing environments with Anaconda
 
-Creating a new environment in Anaconda is very easy. Just open the Anaconda Navigator.
+Creating a new environment in Anaconda is very easy. Just open the Anaconda Navigator. For a more comprehensive documentation see [this](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments/).
 
 ![anaconda-navigator-environments-1](https://cloudstor.aarnet.edu.au/plus/s/BkIshsGzQq6QPKy/download)
 
@@ -29,7 +29,7 @@ Creating a new environment in Anaconda is very easy. Just open the Anaconda Navi
 
 Your new environment will already have a few essential packages installed. Probably, Django is not among them. To install Django in you environment you will need to
 
-1. Select your environment, which in the example is named "my-environment"
+1. Select your environment, which in the example is named "my-environment" (with a typo :-))
 2. Select in the right-hand pannel the list of "Non-installed" packages.
 3. The list is long so you can simply enter "Django" in the search box.
 
@@ -49,6 +49,8 @@ Your package is now installed!
 If you go back to your Anaconda Navigator "Home", you will see that your new environment is available. Just select it, reinstall the application that you plan to use (maybe Spyder?) and launch it.
 
 ![anaconda-navigator-environments-4](https://cloudstor.aarnet.edu.au/plus/s/rd64ZlxYJZUC6gF/download)
+
+If you want to use the environment from the command line open you Terminal (Mac) or your Anaconda Prompt in Windows and run `source activate my-environment` (assuming that your environment is named "my-environment") - you can also try `conda activate my-environment`. You will then be within the environment (the prompt should change to reflect that).
 
 
 ### Creating environments with virtualenv
