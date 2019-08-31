@@ -10,7 +10,7 @@ author: Francesco Bailo
 You will need to enter these commands using **terminal** (Mac OSX) or **Anaconda Prompt** (Windows).
 
 
-Before you start, it is suggested that you create a folder on your computer to store all the project files
+### 0. Before you start, it is suggested that you create a folder on your computer to store all the project files
 
 The command to create a directory is `mkdir` followed by the name of your directory. After opening your terminal/prompt do
 
@@ -27,13 +27,13 @@ cd djangogirls
 ```
 
 
-1. With the following command we are creating an environment called `djangoenv` specifying we want to install Python 3.6 
+###  1. With the following command we are creating an environment called `djangoenv` specifying we want to install Python 3.6 
 
 ```
 conda create -n djangoenv python=3.6
 ```
 
-2. Activate your environment
+###  2. Activate your environment
 
 ```
 conda activate djangoenv
@@ -41,20 +41,20 @@ conda activate djangoenv
 
 Note: I get an error here (on a Mac, due to a [known issue](https://github.com/conda/conda/issues/7403)) and instead used `source activate djangoenv`.
 
-3. Install Django (within your newly created environment)
+### 3. Install Django (within your newly created environment)
 
 
 ```
 conda install django
 ```
 
-4. Install sqlparse (a required Python package)
+### 4. Install sqlparse (a required Python package)
 
 ```
 conda install sqlparse 
 ```
 
-5. Set up a Django project (in the current directory)
+### 5. Set up a Django project (in the current directory)
 
 ```
 django-admin startproject website
@@ -62,7 +62,7 @@ django-admin startproject website
 
 You have now created all the files required by Django. Check what do you have with `ls` on Mac OSX or `dir` on Windows. I have two folders: `3.7` and `website`.
 
-6. Launch your website
+### 6. Launch your website
 
 Move to the directory with the website file with
 
