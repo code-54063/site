@@ -7,7 +7,7 @@ last_modified_at: "September 1, 2019"
 author: Francesco Bailo
 ---
 
-## Use terminal (Mac OSX) or Anaconda Prompt (Windows)
+You will need to enter these commands using **terminal** (Mac OSX) or **Anaconda Prompt** (Windows).
 
 
 Before you start, it is suggested that you create a folder on your computer to store all the project files
