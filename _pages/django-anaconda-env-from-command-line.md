@@ -10,7 +10,7 @@ author: Francesco Bailo
 ## Use terminal (Mac OSX) or Anaconda Prompt (Windows)
 
 
-0. It is suggested that you create a folder on your computer to store all the project files
+Before you start, it is suggested that you create a folder on your computer to store all the project files
 
 The command to create a directory is `mkdir` followed by the name of your directory. After opening your terminal/prompt do
 
