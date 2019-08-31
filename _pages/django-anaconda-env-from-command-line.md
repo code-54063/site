@@ -7,7 +7,7 @@ last_modified_at: "September 1, 2019"
 author: Francesco Bailo
 ---
 
-##Use terminal (Mac OSX) or Anaconda Prompt (Windows)
+## Use terminal (Mac OSX) or Anaconda Prompt (Windows)
 
 
 0. It is suggested that you create a folder on your computer to store all the project files
