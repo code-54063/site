@@ -1,5 +1,5 @@
 ---
-title: Setup you Django environment from command line
+title: Setup your Django environment from the command line
 category: django
 order: 
 permalink: "/django/anaconda-env-from-command-line"

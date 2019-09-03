@@ -78,6 +78,8 @@ docs:
         url: /django/why-do-you-need-a-framework
       - title: "Setting up your environment"
         url: /django/setting-up-your-environment
+      - title: Setup your Django environment from the command line
+        url: /django/anaconda-env-from-command-line
       - title: "Working with log-ins"
         url: /django/working-with-log-ins
       # - title: "Working with virtualenv" EDIT THIS
