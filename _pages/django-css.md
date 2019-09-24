@@ -2,7 +2,7 @@
 title: CSS : Make it pretty!
 category: django
 order: 
-permalink: "django/css"
+permalink: "/django/css"
 last_modified_at: "September 13, 2018"
 ---
 
