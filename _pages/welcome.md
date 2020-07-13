@@ -2,14 +2,6 @@
 title:  Welcome
 permalink: "/welcome"
 last_modified_at: "July 10, 2019"
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 ---
 
 **Hi everyone, welcome to Code as Literacy, Commodity, Infrastructure.**
