@@ -9,7 +9,7 @@ You can find the materials and activities for each week in the menu on the left 
 
 We'll go through these exercises in class but you might need to do some follow up work outside of class if you can't complete in time. The website materials are divided in these categories:
 
-1. **[Welcome](/welcome)** If you don't know where to start, begin here. 
+1. **[Welcome](/site/welcome)** If you don't know where to start, begin here. 
 2. **[Getting started](/getting-started)** A few simple instructions to get you started with the subject.
 3. **[Understanding Python](/understanding-python)** One of the most widely used and supported programming languages in the world.
 4. **[Web scraping with Python](/web-scraping-with-python)** An introduction into the world of scraping
